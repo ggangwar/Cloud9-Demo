@@ -17,5 +17,6 @@ alias demo="cd /home/ec2-user/environment/Cloud9-Demo && source ~/.Cloud9-Demo/b
 # source ~/.bashrc file
 source ~/.bashrc
 
+# CircleCI status badge
 [![CircleCI](https://circleci.com/gh/ggangwar/Cloud9-Demo.svg?style=svg)]https://circleci.com/gh/ggangwar/Cloud9-Demo)
 
